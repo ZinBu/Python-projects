@@ -19,7 +19,7 @@ class Main:
 class Logic():
     """ Основная логика приложения """
     
-    app_id_ = 'id разработчика'
+    app_id_ = 5377227
       
 
     def try_engage(self):   
